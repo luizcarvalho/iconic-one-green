@@ -228,7 +228,7 @@ textarea {
 }
 
 #searchsubmit {
-    background: #00A1E0;
+    background: #3D6D4D ;
     color: #FFFFFF;
 	margin-left: -4px;
 }
@@ -248,7 +248,7 @@ input[type="color"] {
 
 li.bypostauthor cite span {
 	color: #fff;
-	background-color: #00A1E0;
+	background-color: #3D6D4D;
 	background-image: none;
 	border: 1px solid #f3f3f3;
 	border-radius: 2px;
@@ -535,12 +535,12 @@ a:hover {
 	transition: .3s ease 0s;
 }
 
-li.current-menu-item{background: #00A1E0}
+li.current-menu-item{background: #3D6D4D}
 
 .themonic-nav li:hover {
 		display: inline-block;
 		text-decoration: none;
-		background:#00A1E0;
+		background:#3D6D4D;
 		}
 	
 .themonic-nav  li a{
